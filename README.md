@@ -23,4 +23,4 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ### Demonstrativo
 
-<img src="assets/demonstrativo.png" alt="Astro logo">
+<img src="https://raw.githubusercontent.com/cheudon157/cronometro/main/assets/demonstrativo.PNG" alt="Demonstrativo">
