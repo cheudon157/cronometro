@@ -2,7 +2,7 @@
     <div>
 
         <div class="row  justify-content-center mt-2">
-            <h1><span class="text-gradient">Cronomêtro</span></h1>
+            <h1><span class="text-gradient">Timer</span></h1>
         </div>
 
         <div class="row justify-content-center mt-2">
